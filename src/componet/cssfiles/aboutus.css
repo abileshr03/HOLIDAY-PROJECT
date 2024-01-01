@@ -1,0 +1,22 @@
+/* AboutUs.css */
+
+.about-us-container {
+  background-color: #f8f9fa; /* Light gray background color */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow effect */
+}
+
+.about-us-image {
+  border-radius: 10px;
+}
+
+.about-us-text {
+  padding: 20px;
+}
+@media (0px<= width <=400px)
+{
+    img{
+        width: 60px;
+    }
+}
+/* Add more styling as needed */

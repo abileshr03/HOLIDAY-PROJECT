@@ -1,0 +1,30 @@
+.b
+{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.dd{
+    display: flex;
+    float:left;
+}
+.ff{
+    display: flex;
+    float: left;
+}
+.ic
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+.ik
+{
+    
+    display: flex;
+    justify-content: center;
+}
+h5{
+    text-align: left;
+}

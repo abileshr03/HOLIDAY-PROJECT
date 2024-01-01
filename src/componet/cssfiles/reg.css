@@ -1,0 +1,55 @@
+
+.reg
+{
+    height: 100vh;
+    
+    
+    
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 10px;
+
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    background-image: url("../images/rwood.jpg");
+    background-size: cover;
+  background-position: center;
+}
+.d
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color:white;
+}
+.regu
+{
+    
+    background-color:#673e07;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 30px; */
+    border-color: black;
+}
+.regi
+{
+    /* background-color: gray; */
+    border-radius: 8px;
+    width:"500px";
+    height: "700px";
+
+}
+.ic
+{
+    display: flex;
+    justify-content: space-evenly;
+    height: 40px;
+    width: 150px;
+    margin-left: 125px;
+    margin-top: 30px;
+}

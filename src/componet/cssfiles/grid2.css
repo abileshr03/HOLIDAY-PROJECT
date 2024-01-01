@@ -1,0 +1,15 @@
+@media (0px<= width <=250px)
+{
+    .i{
+        width: 200px;
+    }
+}
+@media (420px<=  width)
+{
+    .i{
+        width:414px;
+    }
+}
+.i:hover{
+    transform:scale(1.05);
+}

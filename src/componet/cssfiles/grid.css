@@ -1,0 +1,6 @@
+@media (0px<= width <=400px)
+{
+    img{
+        width: 250px;
+    }
+}
